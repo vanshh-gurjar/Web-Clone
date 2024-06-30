@@ -1,1 +1,1 @@
-In this Repo. I maded clone of website Unusability.hub
+Creating a clone of UsabilityHub using HTML and CSS involves replicating the visual design and layout of the platform. This project helps in understanding web design principles, enhancing skills in front-end development, and practicing responsive design techniques.
